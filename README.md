@@ -1,2 +1,2 @@
 # Animation
-This is tailwind+vanilla css animation simple which works while hovering over text
+This is animation with simple tailwind+vanilla css which works while hovering over text
